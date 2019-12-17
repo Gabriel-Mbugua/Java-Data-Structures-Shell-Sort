@@ -1,7 +1,7 @@
 # Java-Data-Structures-Shell-Sort
 An example of how to improve the efficiency of the insertion sort algorithm using the shell sort algorithm.
 
-#Explanation
+# Explanation
 Normal insertion sort shifts elements within an array with their immediate neighbour in order to sort the array in ascending order. 
 The problem with this is that alot of shifting may need to be done if for example the smallest element in the array is at the complete end
 of the array and alot of shifting would be required to shift this element all the way to the beginning.
